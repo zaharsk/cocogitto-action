@@ -1,5 +1,5 @@
 tag_prefix = "v"
-branch_whitelist = ["main", "bump"]
+branch_whitelist = ["main"]
 ignore_merge_commits = true
 ignore_fixup_commits = true
 
@@ -16,7 +16,7 @@ chore = { omit_from_changelog = true }
 template = "remote"
 remote = "github.com"
 repository = "cocogitto-action"
-owner = "cocogitto"
+owner = "zaharsk"
 authors = [
     { signature = "Paul Delafosse", username = "oknozor" },
     { signature = "Joshua Clayton", username = "joshua-clayton" },
@@ -33,4 +33,5 @@ authors = [
     { signature = "Marcin Puc", username = "tranzystorekk" },
     { signature = "Paul Stemmet", username = "bazaah" },
     { signature = "Matthias Behr", username = "mbehr1 " },
+    { signature = "Zakhar Skorokhodov", username = "zaharsk " },
 ]
