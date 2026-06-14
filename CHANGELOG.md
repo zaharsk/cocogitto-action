@@ -9,6 +9,77 @@
 - add a workflow_dispatch option - ([605a53a](https://github.com/cocogitto/cocogitto-action/commit/605a53a0082b10e4887a9264d34ecae2ed568ea9)) - [@joshua-clayton](https://github.com/joshua-clayton)
 
 - - -
+## [v0.1.0](https://github.com/zaharsk/cocogitto-action/compare/0e988819e5b9463f0416b07b2b110bbb065df732..v0.1.0) - 2026-06-14
+#### Features
+- (**bump**) upgrade to 5.2.0 - ([c9f6d27](https://github.com/zaharsk/cocogitto-action/commit/c9f6d2753b2e33de09ada12cfbc1d8464b1b3ea9)) - [@stepenc](https://github.com/stepenc)
+- (**bump**) bump cocogitto to 5.0.1 - ([8088ae1](https://github.com/zaharsk/cocogitto-action/commit/8088ae1647b872d44bf5157dfafb205be16d97de)) - [@oknozor](https://github.com/oknozor)
+- (**bump**) bump cocogitto to 5.0.1 - ([55422bd](https://github.com/zaharsk/cocogitto-action/commit/55422bd6dbec477632ef9e0943d68267a2db3fa2)) - [@oknozor](https://github.com/oknozor)
+- (**bump**) update cocogitto version to 5.0.0 - ([1c389ea](https://github.com/zaharsk/cocogitto-action/commit/1c389eaafef1e27d7c4b10642e8280068d040449)) - [@oknozor](https://github.com/oknozor)
+- (**cog.sh**) handle dry run specific cases - ([2b29139](https://github.com/zaharsk/cocogitto-action/commit/2b29139be22c3c2eef16680340cede77afd9d738)) - [@sergejomon](https://github.com/sergejomon)
+- (**profile**) add bump profile input - ([f1d28f8](https://github.com/zaharsk/cocogitto-action/commit/f1d28f8e65281597d8209bf233328ddfd4424d10)) - [@sergejomon](https://github.com/sergejomon)
+- update cocogitto to 7.0.0 - ([791f5c5](https://github.com/zaharsk/cocogitto-action/commit/791f5c57ed333b6b731946d086bea1fa7caef7df)) - github-action
+- support install only - ([fe8ace5](https://github.com/zaharsk/cocogitto-action/commit/fe8ace544dfe3291b84b665f242f79a4f206b2a2)) - Mona Lisa
+- update cocogitto to 6.5.0 - ([42183d2](https://github.com/zaharsk/cocogitto-action/commit/42183d2af77737e0b172fa6202d3764162feebb8)) - [@oknozor](https://github.com/oknozor)
+- automatically release on new cocogitto release - ([9b6199f](https://github.com/zaharsk/cocogitto-action/commit/9b6199f556c395b02908cbfa5866ac01ccd812aa)) - [@oknozor](https://github.com/oknozor)
+- update cocogitto to 6.4.0 - ([6040da4](https://github.com/zaharsk/cocogitto-action/commit/6040da42faa133b5ca4b113d02a3ed7bb1cb1fa1)) - [@oknozor](https://github.com/oknozor)
+- add multiplatform support - ([9759a01](https://github.com/zaharsk/cocogitto-action/commit/9759a010b12220484ca2587076112490eae29780)) - [@oknozor](https://github.com/oknozor)
+- ![BREAKING](https://img.shields.io/badge/BREAKING-red) pass any cog command or arg to the action - ([455b4fa](https://github.com/zaharsk/cocogitto-action/commit/455b4fa07e14a0dc0d8706a93827fa7a0dffcfa7)) - [@oknozor](https://github.com/oknozor)
+- bump cocogitto to 6.3.0 - ([c7a74f5](https://github.com/zaharsk/cocogitto-action/commit/c7a74f5406bab86da17da0f0e460a69f8219a68c)) - [@oknozor](https://github.com/oknozor)
+- bump cocogitto to 6.2.0 - ([ed62593](https://github.com/zaharsk/cocogitto-action/commit/ed62593c499c2d7697bb0177213946f1e2634119)) - [@oknozor](https://github.com/oknozor)
+- add input for dry run - ([9f04182](https://github.com/zaharsk/cocogitto-action/commit/9f04182ebb5161effce9d2d6367659e700bb7adf)) - [@sergejomon](https://github.com/sergejomon)
+- add input to specify package for release - ([464780f](https://github.com/zaharsk/cocogitto-action/commit/464780fa843395096b3b8371904879d54d9de9da)) - [@wittdennis](https://github.com/wittdennis)
+- enable use of `cog verify` in action - ([8847c89](https://github.com/zaharsk/cocogitto-action/commit/8847c8976a94ac509c518ca39fc9494661f9b15d)) - [@the-wondersmith](https://github.com/the-wondersmith)
+- echo cog version in action - ([41c16c9](https://github.com/zaharsk/cocogitto-action/commit/41c16c92a95c24b4d11a0c3196f8f2ad06f5286a)) - [@nagyben](https://github.com/nagyben)
+- update cocogitto to 6.1.0 - ([06d1eb4](https://github.com/zaharsk/cocogitto-action/commit/06d1eb4453e88f218c8d855d8df983224d1986dc)) - [@nagyben](https://github.com/nagyben)
+- update cocogitto to 6.0.1 - ([74f3572](https://github.com/zaharsk/cocogitto-action/commit/74f3572482643e11fe7f54e42714ff4ad5fa19ba)) - [@vtavernier](https://github.com/vtavernier)
+- bump to 5.6.0 - ([1f7463b](https://github.com/zaharsk/cocogitto-action/commit/1f7463bd27d1c999663b1d247791cb43c758c29a)) - [@oknozor](https://github.com/oknozor)
+- upgrade to cocogitto 5.4.0 - ([ac62601](https://github.com/zaharsk/cocogitto-action/commit/ac6260150ee57e3164cd95b47fc84cdee9e3444c)) - [@oknozor](https://github.com/oknozor)
+- bump to 5.3.0 - ([851938e](https://github.com/zaharsk/cocogitto-action/commit/851938eb278221bc0b2bbf82fbe14d816f73df94)) - [@oknozor](https://github.com/oknozor)
+- add binaries to path - ([4c4915c](https://github.com/zaharsk/cocogitto-action/commit/4c4915cc8a1dde177567f321eb3695bf639725bd)) - [@oknozor](https://github.com/oknozor)
+- add checkout action as part of the job - ([d997156](https://github.com/zaharsk/cocogitto-action/commit/d997156daeda844c8b702372442cbeeb15b5e17d)) - [@oknozor](https://github.com/oknozor)
+- add version output - ([c40bc63](https://github.com/zaharsk/cocogitto-action/commit/c40bc630c23228d33054e0ee2da8824182bee54f)) - [@oknozor](https://github.com/oknozor)
+- add version output - ([52ddb64](https://github.com/zaharsk/cocogitto-action/commit/52ddb648f4b525e11e58e2b94781011b2de1911f)) - [@oknozor](https://github.com/oknozor)
+- bump cocogitto version - ([59f7bee](https://github.com/zaharsk/cocogitto-action/commit/59f7bee08df00935258be1ae3f402ef9ad8b392e)) - [@oknozor](https://github.com/oknozor)
+- implement v1 with cocogitto 2.1.1 - ([8e591de](https://github.com/zaharsk/cocogitto-action/commit/8e591dee126f4cf450ba2e025c5ea977f4498e9f)) - [@oknozor](https://github.com/oknozor)
+#### Bug Fixes
+- (**cog.sh**) fix white spaces ignored in sh - ([e6dcde3](https://github.com/zaharsk/cocogitto-action/commit/e6dcde3d9b778aaca9ea02ff574f6c1e3d9cd66b)) - [@sergejomon](https://github.com/sergejomon)
+- (**dry-run**) fix dry run - ([f8c4784](https://github.com/zaharsk/cocogitto-action/commit/f8c47844d2cd778f8f8350ff2d198efb1142403f)) - [@sergejomon](https://github.com/sergejomon)
+- (**install.sh**) update VERSION=4.1.0 - ([5359849](https://github.com/zaharsk/cocogitto-action/commit/5359849724bd1078a64ce89a88ed50c54ce04a82)) - [@bazaah](https://github.com/bazaah)
+- (**install.sh**) s/oknozor/cocogitto/ in remote url - ([cbe452e](https://github.com/zaharsk/cocogitto-action/commit/cbe452e07a865d76a07de0328c98f6a065f2d45f)) - [@bazaah](https://github.com/bazaah)
+- (**readme**) Update to v2 and cocogitto GH owner - ([be31d49](https://github.com/zaharsk/cocogitto-action/commit/be31d4946f92e70ddf9939de8927c26c707a761d)) - [@mbehr1 ](https://github.com/mbehr1 )
+- fix github user in auto-release - ([f9bdfc4](https://github.com/zaharsk/cocogitto-action/commit/f9bdfc412b07d0ac39ceb950abacb8cc66284b72)) - [@oknozor](https://github.com/oknozor)
+- non-zero exit code hides command output - ([6fbda0a](https://github.com/zaharsk/cocogitto-action/commit/6fbda0ad0ef174e7c3b014efd7426b9d2773bfa4)) - Nicolas Goudry
+- shellcheck SC2086 - ([6c8c505](https://github.com/zaharsk/cocogitto-action/commit/6c8c505e3ee7781a9d0feef3836b9bc604d0f475)) - Nicolas Goudry
+- typo - ([35451fc](https://github.com/zaharsk/cocogitto-action/commit/35451fc3148a21a1138c90a5ee7c1591a27c3fed)) - Nicolas Goudry
+- ci fails as expected. reverting - ([f23869c](https://github.com/zaharsk/cocogitto-action/commit/f23869c46f29c2b80f2b4ce27c027822dad5442f)) - [@oknozor](https://github.com/oknozor)
+- handle non zero exit - ([5d42669](https://github.com/zaharsk/cocogitto-action/commit/5d42669cb217d83db9beff137db391cd160d6597)) - [@oknozor](https://github.com/oknozor)
+- use GITHUB_ACTION_PATH instead of github.action_path - ([d226c45](https://github.com/zaharsk/cocogitto-action/commit/d226c4591079402b7c2221d67ff862566b6de054)) - [@joshua-clayton](https://github.com/joshua-clayton)
+- verify runs with blank text - ([5ae1660](https://github.com/zaharsk/cocogitto-action/commit/5ae166018d8265bb2df85c1eb521e86a17b61085)) - [@oradwell](https://github.com/oradwell)
+- include lightweight tags in check - ([ee06dcd](https://github.com/zaharsk/cocogitto-action/commit/ee06dcd9aa0484f083b0c985432d7c7f1603f65c)) - [@lukehsiao](https://github.com/lukehsiao)
+- correctly exit 1 on error - ([d4d4c32](https://github.com/zaharsk/cocogitto-action/commit/d4d4c3266e64f620c42a8e3e4b2472e146b3dd26)) - [@oknozor](https://github.com/oknozor)
+#### Documentation
+- Updated cog config - ([724cb38](https://github.com/zaharsk/cocogitto-action/commit/724cb380bce68e48990333419cdde895025fb696)) - [@zaharsk ](https://github.com/zaharsk )
+- update readme with changelog example - ([cc9722d](https://github.com/zaharsk/cocogitto-action/commit/cc9722d2ff4c6eb84ba23597810f9c851bc5b014)) - [@oknozor](https://github.com/oknozor)
+- add CHANGELOG.md - ([404fd09](https://github.com/zaharsk/cocogitto-action/commit/404fd09f5a3abe3b97a3a4e7ab090c157cff25fc)) - [@oknozor](https://github.com/oknozor)
+- add package input to README.md - ([a95cd3b](https://github.com/zaharsk/cocogitto-action/commit/a95cd3b34f1e5235b58b666e52e73c24ef61a5f1)) - [@wittdennis](https://github.com/wittdennis)
+- suggest actions/checkout@v4 - ([64a1b79](https://github.com/zaharsk/cocogitto-action/commit/64a1b79692e7b9f9929d8bb0c6ccae98304f7d05)) - [@oradwell](https://github.com/oradwell)
+- bump suggested actions/checkout version to 3 - ([dcd3132](https://github.com/zaharsk/cocogitto-action/commit/dcd3132e27c0e8cb35a7c67b75738d2c344d06da)) - [@tranzystorekk](https://github.com/tranzystorekk)
+#### Tests
+- add multiarch test matrix - ([11ce4d0](https://github.com/zaharsk/cocogitto-action/commit/11ce4d01d17f736cef30790cd23a3a31ea710517)) - [@oknozor](https://github.com/oknozor)
+- assert action fail on non zero exit - ([bdb5be6](https://github.com/zaharsk/cocogitto-action/commit/bdb5be6d1244463fe882660b18e580b96d57b61b)) - [@oknozor](https://github.com/oknozor)
+- run cocogitto-action in a container - ([ed16f7a](https://github.com/zaharsk/cocogitto-action/commit/ed16f7a4bf7e9e928581d4d5cfd194e70a986e96)) - [@joshua-clayton](https://github.com/joshua-clayton)
+#### Continuous Integration
+- Added permissions for bot - ([1628373](https://github.com/zaharsk/cocogitto-action/commit/16283736b2acd368645af50c43085f7a86e6ebda)) - [@zaharsk ](https://github.com/zaharsk )
+- Updated actions/checkout to v6 - ([fea83c2](https://github.com/zaharsk/cocogitto-action/commit/fea83c26e8d39c795d5cdb0c5024e946bfced1b9)) - [@zaharsk ](https://github.com/zaharsk )
+- Fix bin path in action yaml - ([b59054c](https://github.com/zaharsk/cocogitto-action/commit/b59054cbd6489ee90a20e75acad14b0e884d0d7f)) - [@zaharsk ](https://github.com/zaharsk )
+- update github output - ([a8bf926](https://github.com/zaharsk/cocogitto-action/commit/a8bf926e7d94fb0fe86c926e3432ab2a8abd56f0)) - [@oknozor](https://github.com/oknozor)
+- setup cog.toml - ([6447b5e](https://github.com/zaharsk/cocogitto-action/commit/6447b5edf585b4271736c89898a75ae3a98939d5)) - [@oknozor](https://github.com/oknozor)
+- add cog and Release action - ([6370513](https://github.com/zaharsk/cocogitto-action/commit/637051360be41e9289ebfab71e42ca9919b1b93f)) - [@oknozor](https://github.com/oknozor)
+- add a workflow_dispatch option - ([605a53a](https://github.com/zaharsk/cocogitto-action/commit/605a53a0082b10e4887a9264d34ecae2ed568ea9)) - [@joshua-clayton](https://github.com/joshua-clayton)
+- add ci - ([f6b07ad](https://github.com/zaharsk/cocogitto-action/commit/f6b07ad2e8576594a6178e4277ac70e03942f94d)) - [@oradwell](https://github.com/oradwell)
+
+- - -
+
 ## [v4.2.0](https://github.com/cocogitto/cocogitto-action/compare/fe8ace544dfe3291b84b665f242f79a4f206b2a2..v4.2.0) - 2026-03-04
 #### Features
 - update cocogitto to 7.0.0 - ([791f5c5](https://github.com/cocogitto/cocogitto-action/commit/791f5c57ed333b6b731946d086bea1fa7caef7df)) - github-action
