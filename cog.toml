@@ -4,9 +4,9 @@ ignore_merge_commits = true
 ignore_fixup_commits = true
 
 post_bump_hooks = [
-     "git push",
-     "git push origin {{version_tag}}",
-     "./major.sh {{version_tag}}",
+    "git push",
+    "git push origin {{version_tag}}",
+    "./major.sh {{version_tag}}",
 ]
 
 [commit_types]
@@ -16,7 +16,7 @@ chore = { omit_from_changelog = true }
 template = "remote"
 remote = "github.com"
 repository = "cocogitto-action"
-owner = "cocogitto"
+owner = "zaharsk"
 authors = [
     { signature = "Paul Delafosse", username = "oknozor" },
     { signature = "Joshua Clayton", username = "joshua-clayton" },
@@ -32,5 +32,6 @@ authors = [
     { signature = "Stephen Connolly", username = "stepenc" },
     { signature = "Marcin Puc", username = "tranzystorekk" },
     { signature = "Paul Stemmet", username = "bazaah" },
-    { signature = "Matthias Behr", username = "mbehr1 " }
+    { signature = "Matthias Behr", username = "mbehr1 " },
+    { signature = "Zakhar Skorokhodov", username = "zaharsk " },
 ]
