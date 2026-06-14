@@ -1,15 +1,9 @@
-name: Create Github Release
-
-# on:
-#   push:
-#     tags:
-#       - "v*.*.*"
+name: Release deploy
 
 on:
-  workflow_run:
-    workflows: ["Release"]
-    types:
-      - completed
+  push:
+    tags:
+      - "v*.*.*"
 
 jobs:
   create_release:
