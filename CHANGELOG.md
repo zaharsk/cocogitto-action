@@ -9,6 +9,12 @@
 - add a workflow_dispatch option - ([605a53a](https://github.com/cocogitto/cocogitto-action/commit/605a53a0082b10e4887a9264d34ecae2ed568ea9)) - [@joshua-clayton](https://github.com/joshua-clayton)
 
 - - -
+## [v0.1.2](https://github.com/zaharsk/cocogitto-action/compare/f7ec26b305499b0855348022f8de148ada402a93..v0.1.2) - 2026-06-14
+#### Bug Fixes
+- Added permissions for deploy workflow - ([f7ec26b](https://github.com/zaharsk/cocogitto-action/commit/f7ec26b305499b0855348022f8de148ada402a93)) - [@zaharsk ](https://github.com/zaharsk )
+
+- - -
+
 ## [v0.1.1](https://github.com/zaharsk/cocogitto-action/compare/7f80f38417acbe3a8a01e0e00438ce86de29f929..v0.1.1) - 2026-06-14
 #### Bug Fixes
 - Bump version - ([cc9486d](https://github.com/zaharsk/cocogitto-action/commit/cc9486d04da20b84ec84468d1974c59d75bb5cf9)) - [@zaharsk ](https://github.com/zaharsk )
