@@ -5,6 +5,9 @@ on:
   repository_dispatch:
     types: [cocogitto-released]
 
+permissions:
+  contents: write
+
 jobs:
   release:
     name: SemVer release
