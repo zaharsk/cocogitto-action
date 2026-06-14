@@ -8,7 +8,6 @@
 # Custom folder icons
 Icon
 
-
 # Volume root files
 .DocumentRevisions-V100
 .fseventsd
@@ -49,3 +48,4 @@ Icon
 *.vsix
 
 .env
+.devcontainer/bin

@@ -27,7 +27,7 @@ exit_code=$?
   echo "stdout<<EOF"
   echo "$stdout"
   echo "EOF"
-} >> "$GITHUB_OUTPUT"
+} >>"$GITHUB_OUTPUT"
 echo "$stdout"
 [ $exit_code -ne 0 ] && exit $exit_code
 

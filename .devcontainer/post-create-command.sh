@@ -2,7 +2,7 @@
 
 set -ueo pipefail
 
-echo "${GIT_PUBLIC_KEY}" > ~/.ssh/id_ed25519.pub
+echo "${GIT_PUBLIC_KEY}" >~/.ssh/id_ed25519.pub
 
 git config --global user.name "${GIT_USER_NAME}"
 git config --global user.email "${GIT_USER_EMAIL}"
@@ -19,3 +19,5 @@ git config --global init.defaultBranch main
 git config core.hooksPath .githooks
 
 ### === ### === ### === ### === ### === ### === ### === ### === ### === ### === ###
+
+./install.sh

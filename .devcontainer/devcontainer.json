@@ -1,7 +1,7 @@
 {
-  "name": "Devcontainer",
+  "name": "Cocogitto Action",
 
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "image": "ghcr.io/actions/actions-runner:latest",
 
   "initializeCommand": ".devcontainer/initialize-command.sh",
   "postCreateCommand": ".devcontainer/post-create-command.sh",
@@ -28,10 +28,13 @@
         "editor.formatOnPaste": true,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
 
+        "shellformat.path": "${containerWorkspaceFolder}/.devcontainer/bin/shfmt",
         "[shellscript]": {
           "editor.defaultFormatter": "lumirelle.shell-format-rev"
         },
-        "shellformat.path": "/home/vscode/.local/bin/shfmt",
+        "[ignore]": {
+          "editor.defaultFormatter": "lumirelle.shell-format-rev"
+        },
         "[toml]": {
           "editor.defaultFormatter": "tamasfe.even-better-toml"
         },
