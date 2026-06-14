@@ -9,6 +9,16 @@
 - add a workflow_dispatch option - ([605a53a](https://github.com/cocogitto/cocogitto-action/commit/605a53a0082b10e4887a9264d34ecae2ed568ea9)) - [@joshua-clayton](https://github.com/joshua-clayton)
 
 - - -
+## [v0.1.1](https://github.com/zaharsk/cocogitto-action/compare/7f80f38417acbe3a8a01e0e00438ce86de29f929..v0.1.1) - 2026-06-14
+#### Bug Fixes
+- Bump version - ([cc9486d](https://github.com/zaharsk/cocogitto-action/commit/cc9486d04da20b84ec84468d1974c59d75bb5cf9)) - [@zaharsk ](https://github.com/zaharsk )
+#### Continuous Integration
+- Update workflow names - ([c95fbce](https://github.com/zaharsk/cocogitto-action/commit/c95fbcec8d9801412b1fccfe6d501c3e0e489269)) - [@zaharsk ](https://github.com/zaharsk )
+- Added PAT for Release - ([d4254e6](https://github.com/zaharsk/cocogitto-action/commit/d4254e6bd3987d719dcc43396e2bf3b755922ffe)) - [@zaharsk ](https://github.com/zaharsk )
+- Changed deploy trigger to workflow_run - ([7f80f38](https://github.com/zaharsk/cocogitto-action/commit/7f80f38417acbe3a8a01e0e00438ce86de29f929)) - [@zaharsk ](https://github.com/zaharsk )
+
+- - -
+
 ## [v0.1.0](https://github.com/zaharsk/cocogitto-action/compare/0e988819e5b9463f0416b07b2b110bbb065df732..v0.1.0) - 2026-06-14
 #### Features
 - (**bump**) upgrade to 5.2.0 - ([c9f6d27](https://github.com/zaharsk/cocogitto-action/commit/c9f6d2753b2e33de09ada12cfbc1d8464b1b3ea9)) - [@stepenc](https://github.com/stepenc)
