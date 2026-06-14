@@ -1,4 +1,4 @@
-name: Release tag
+name: Tag release commit
 
 on:
   workflow_dispatch:
